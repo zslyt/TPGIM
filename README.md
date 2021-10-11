@@ -14,7 +14,7 @@ from the following link on the MathWorks website:
 
     http://www.mathworks.com/products/compiler/mcr/index.html
     
- Run main.exe directly 
+ Unzip main.rar and run main.exe directly 
  
  2.Description
  
